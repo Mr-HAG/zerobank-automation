@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc086b5-be71-4db3-912a-3158d4260d24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ct20e7LvU2QHw7dcz4x1lF2d1S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zerobank-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zerobank.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zerobank.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.zerobank.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc086b5-be71-4db3-912a-3158d4260d24" name="Default Changelist" comment="" />
+      <created>1591333346865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591333346865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1591454043131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591454043131" />
+    <state x="531" y="255" key="Github.ShareDialog" timestamp="1591453947617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="255" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1591453947617" />
+    <state x="516" y="62" key="Github.UntrackedFilesDialog" timestamp="1591453968669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="516" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591453968669" />
+    <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1591453915536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1591453915536" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591453932263">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591453932263" />
+  </component>
+</project>
